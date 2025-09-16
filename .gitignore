@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+.envrc
+.idea/
+.vscode/
+*.log
+todo_state.json
